@@ -1,0 +1,60 @@
+about:
+  description: OpenSSF Scorecard - Security health metrics for Open Source
+  license: Apache-2.0
+  homepage: https://scorecard.dev
+  head: d1fab88
+  archived: false
+  latestVersion: v5.5.0
+  collectedAt: 2026-08-29T07:02:03Z
+timeline:
+  created: 2020-10-09
+  lastCommit: 2026-08-15
+  lastRelease: 2026-04-23
+popularity:
+  star: 5658
+  watcher: 70
+  fork: 710
+  release: 48
+  contributor: 209
+  pullRequest: 859
+  issue: 1263
+language:
+  Go: 2657885
+  Makefile: 21954
+  Dockerfile: 9191
+  Shell: 4289
+  JavaScript: 735
+totalLine: 2694054
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 4
+    openPR: 33
+    closedIssue: 2
+    openIssue: 10
+    commit: 12
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 12
+    openPR: 56
+    closedIssue: 4
+    openIssue: 18
+    commit: 13
+  last180d:
+    since: 2026-03-02
+    release: 1
+    mergedPR: 43
+    openPR: 67
+    closedIssue: 7
+    openIssue: 29
+    commit: 52
+  last360d:
+    since: 2025-09-03
+    release: 3
+    mergedPR: 140
+    openPR: 69
+    closedIssue: 19
+    openIssue: 41
+    commit: 146
