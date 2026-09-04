@@ -7,7 +7,7 @@ about:
   head: d1fab88
   archived: false
   latestVersion: v5.5.0
-  collectedAt: 2026-09-04T19:32:09Z
+  collectedAt: 2026-09-04T21:03:10Z
 timeline:
   created: 2020-10-09
   lastCommit: 2026-08-15
@@ -84,6 +84,84 @@ total:
   openIssue: 390
   commit: 3104
 ---
+path: /home/runner/.x-repo/github.com/ossf/scorecard
+collectedAt: 2026-09-04T21:03:25Z
+loc:
+  Go:
+    code: 78117
+    comments: 11634
+    blanks: 8154
+    files: 593
+  Yaml:
+    code: 4231
+    comments: 1700
+    blanks: 328
+    files: 149
+  Svg:
+    code: 810
+    comments: 2
+    blanks: 0
+    files: 5
+  Makefile:
+    code: 338
+    comments: 57
+    blanks: 72
+    files: 1
+  Bash:
+    code: 156
+    comments: 51
+    blanks: 34
+    files: 5
+  Sh:
+    code: 145
+    comments: 204
+    blanks: 53
+    files: 15
+  Dockerfile:
+    code: 110
+    comments: 104
+    blanks: 26
+    files: 8
+  MsBuild:
+    code: 99
+    comments: 0
+    blanks: 5
+    files: 16
+  Java:
+    code: 86
+    comments: 15
+    blanks: 17
+    files: 6
+  Xml:
+    code: 85
+    comments: 0
+    blanks: 0
+    files: 11
+  Protobuf:
+    code: 38
+    comments: 40
+    blanks: 17
+    files: 3
+  JavaScript:
+    code: 1
+    comments: 15
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7982
+    blanks: 2795
+    files: 37
+  Text:
+    code: 0
+    comments: 10
+    blanks: 3
+    files: 6
+total:
+  code: 84377
+  comments: 21826
+  blanks: 11513
+  files: 856
 ---
 date: "2026-08-29T01:42:06Z"
 repo:
