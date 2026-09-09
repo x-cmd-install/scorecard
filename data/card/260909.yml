@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.5.0"
   latestRelease: "v5.5.0"
   latestPrerelease: "v5.0.0-rc2"
-  collectedAt: 2026-09-09T06:23:47Z
+  collectedAt: 2026-09-09T20:22:53Z
 timeline:
   created: 2020-10-09
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-04-23
   lastPrerelease: 2024-05-07
 popularity:
-  star: 5680
+  star: 5682
   watcher: 71
-  fork: 718
+  fork: 720
   release: 48
   contributor: 209
-  pullRequest: 3870
+  pullRequest: 3871
   issue: 1261
 language:
   Go: 2657885
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 1
-    openPR: 25
+    openPR: 26
     closedIssue: 2
     openIssue: 10
     commit: 3
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 11
-    openPR: 44
+    openPR: 45
     closedIssue: 2
     openIssue: 17
     commit: 15
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 14
-    openPR: 49
+    openPR: 50
     closedIssue: 4
     openIssue: 19
     commit: 15
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-13
     release: 1
     mergedPR: 41
-    openPR: 59
+    openPR: 60
     closedIssue: 7
     openIssue: 32
     commit: 54
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-14
     release: 3
     mergedPR: 134
-    openPR: 61
+    openPR: 62
     closedIssue: 18
     openIssue: 44
     commit: 138
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-19
     release: 7
     mergedPR: 351
-    openPR: 61
+    openPR: 62
     closedIssue: 66
     openIssue: 79
     commit: 360
 total:
   release: 48
   mergedPR: 2996
-  openPR: 61
+  openPR: 62
   closedIssue: 875
   openIssue: 386
   commit: 3106
 ---
 path: /home/runner/.x-repo/github.com/ossf/scorecard
-collectedAt: 2026-09-09T06:24:20Z
+collectedAt: 2026-09-09T20:23:32Z
 loc:
   Go:
     code: 78117
