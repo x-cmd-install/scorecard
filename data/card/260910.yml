@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.5.0"
   latestRelease: "v5.5.0"
   latestPrerelease: "v5.0.0-rc2"
-  collectedAt: 2026-09-10T21:13:45Z
+  collectedAt: 2026-09-10T22:38:37Z
 timeline:
   created: 2020-10-09
   lastCommit: 2026-09-08
@@ -87,7 +87,7 @@ total:
   commit: 3106
 ---
 path: /home/runner/.x-repo/github.com/ossf/scorecard
-collectedAt: 2026-09-10T21:14:38Z
+collectedAt: 2026-09-10T22:39:11Z
 loc:
   Go:
     code: 78117
