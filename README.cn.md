@@ -47,22 +47,22 @@ x install scorecard
 
 ## 流行度
 
-- **Star**: 5,687 · **Fork**: 721 · **开放 issue**: 1,263 · **贡献者**: 209
+- **Star**: 5,688 · **Fork**: 721 · **开放 issue**: 1,263 · **贡献者**: 209
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 2996 · **开放 PR**: 66 · **已关闭 issue**: 875 · **开放 issue**: 388 · **提交数**: 3106
+- **发布数**: 48 · **已合并 PR**: 2996 · **开放 PR**: 65 · **已关闭 issue**: 875 · **开放 issue**: 388 · **提交数**: 3106
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 22 | 2 | 12 | 3 |
-| last60d | 2026-07-15 | 0 | 11 | 46 | 2 | 19 | 15 |
-| 90d | 2026-06-15 | 0 | 14 | 54 | 3 | 21 | 15 |
-| last180d | 2026-03-17 | 1 | 41 | 64 | 7 | 34 | 54 |
-| 360d | 2025-09-18 | 3 | 129 | 66 | 16 | 45 | 138 |
-| last720d | 2024-09-23 | 7 | 349 | 66 | 66 | 81 | 358 |
+| 30d | 2026-08-15 | 0 | 1 | 22 | 2 | 12 | 2 |
+| last60d | 2026-07-16 | 0 | 11 | 44 | 2 | 19 | 14 |
+| 90d | 2026-06-16 | 0 | 14 | 52 | 3 | 20 | 15 |
+| last180d | 2026-03-18 | 1 | 41 | 63 | 7 | 34 | 40 |
+| 360d | 2025-09-19 | 3 | 129 | 65 | 16 | 45 | 131 |
+| last720d | 2024-09-24 | 7 | 349 | 65 | 66 | 81 | 358 |
 
 ## Release 资产
 
@@ -77,15 +77,6 @@ x install scorecard
 | [scorecard_5.5.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_windows_arm64.tar.gz) | 22.4 MiB | `native/win/arm64` |
 | [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_checksums.txt) | 612 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/scorecard) 上共有 **14** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `5.5.0` | ✅ latest |
-| Nix unstable | `5.5.0` | ✅ latest |
-
 ## 改进这些数据
 
 scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `scorecard` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +86,4 @@ scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:26:16Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:32:41Z._
