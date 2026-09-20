@@ -4,7 +4,7 @@
 
 OpenSSF Scorecard - Security health metrics for Open Source
 
-![scorecard](https://repo.x-cmd.io/scorecard.svg?lang=zh)
+[![x-cmd/install — scorecard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scorecard.svg?lang=zh)](https://x-cmd.com/install/scorecard)
 
 ## 安装
 
@@ -30,7 +30,7 @@ x install scorecard
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 46 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 47 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
@@ -47,22 +47,22 @@ x install scorecard
 
 ## 流行度
 
-- **Star**: 5,695 · **Fork**: 724 · **开放 issue**: 1,264 · **贡献者**: 209
+- **Star**: 5,696 · **Fork**: 723 · **开放 issue**: 1,264 · **贡献者**: 209
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 2996 · **开放 PR**: 69 · **已关闭 issue**: 876 · **开放 issue**: 388 · **提交数**: 3106
+- **发布数**: 48 · **已合并 PR**: 2996 · **开放 PR**: 68 · **已关闭 issue**: 876 · **开放 issue**: 388 · **提交数**: 3106
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 25 | 2 | 11 | 2 |
-| last60d | 2026-07-20 | 0 | 8 | 44 | 3 | 17 | 14 |
-| 90d | 2026-06-20 | 0 | 14 | 55 | 4 | 20 | 15 |
-| last180d | 2026-03-22 | 1 | 37 | 66 | 8 | 34 | 40 |
-| 360d | 2025-09-23 | 3 | 128 | 69 | 16 | 44 | 131 |
-| last720d | 2024-09-28 | 7 | 346 | 69 | 66 | 81 | 351 |
+| 30d | 2026-08-21 | 0 | 1 | 23 | 2 | 11 | 2 |
+| last60d | 2026-07-22 | 0 | 8 | 42 | 3 | 17 | 14 |
+| 90d | 2026-06-22 | 0 | 14 | 54 | 4 | 19 | 15 |
+| last180d | 2026-03-24 | 1 | 35 | 65 | 8 | 34 | 40 |
+| 360d | 2025-09-25 | 3 | 127 | 68 | 16 | 44 | 131 |
+| last720d | 2024-09-30 | 7 | 343 | 68 | 66 | 81 | 351 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:31:07Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:35:09Z._

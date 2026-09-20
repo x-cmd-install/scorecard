@@ -4,7 +4,7 @@
 
 OpenSSF Scorecard - Security health metrics for Open Source
 
-![scorecard](https://repo.x-cmd.io/scorecard.svg)
+[![x-cmd/install — scorecard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scorecard.svg)](https://x-cmd.com/install/scorecard)
 
 ## Install
 
@@ -30,7 +30,7 @@ Overall score: **9 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 46 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 47 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,695 · **Forks**: 724 · **Open issues**: 1,264 · **Contributors**: 209
+- **Stars**: 5,696 · **Forks**: 723 · **Open issues**: 1,264 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 2996 · **Open PRs**: 69 · **Closed issues**: 876 · **Open issues**: 388 · **Commits**: 3106
+- **Releases**: 48 · **Merged PRs**: 2996 · **Open PRs**: 68 · **Closed issues**: 876 · **Open issues**: 388 · **Commits**: 3106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 25 | 2 | 11 | 2 |
-| last60d | 2026-07-20 | 0 | 8 | 44 | 3 | 17 | 14 |
-| 90d | 2026-06-20 | 0 | 14 | 55 | 4 | 20 | 15 |
-| last180d | 2026-03-22 | 1 | 37 | 66 | 8 | 34 | 40 |
-| 360d | 2025-09-23 | 3 | 128 | 69 | 16 | 44 | 131 |
-| last720d | 2024-09-28 | 7 | 346 | 69 | 66 | 81 | 351 |
+| 30d | 2026-08-21 | 0 | 1 | 23 | 2 | 11 | 2 |
+| last60d | 2026-07-22 | 0 | 8 | 42 | 3 | 17 | 14 |
+| 90d | 2026-06-22 | 0 | 14 | 54 | 4 | 19 | 15 |
+| last180d | 2026-03-24 | 1 | 35 | 65 | 8 | 34 | 40 |
+| 360d | 2025-09-25 | 3 | 127 | 68 | 16 | 44 | 131 |
+| last720d | 2024-09-30 | 7 | 343 | 68 | 66 | 81 | 351 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:31:06Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:35:08Z._
