@@ -30,7 +30,7 @@ Overall score: **9 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 47 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 48 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,707 · **Forks**: 726 · **Open issues**: 1,264 · **Contributors**: 209
+- **Stars**: 5,709 · **Forks**: 727 · **Open issues**: 1,264 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 2996 · **Open PRs**: 67 · **Closed issues**: 876 · **Open issues**: 388 · **Commits**: 3106
+- **Releases**: 48 · **Merged PRs**: 2996 · **Open PRs**: 68 · **Closed issues**: 876 · **Open issues**: 388 · **Commits**: 3106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 1 | 23 | 1 | 9 | 2 |
-| last60d | 2026-07-27 | 0 | 6 | 39 | 3 | 16 | 14 |
-| 90d | 2026-06-27 | 0 | 14 | 53 | 4 | 19 | 15 |
-| last180d | 2026-03-29 | 1 | 35 | 63 | 7 | 34 | 38 |
-| 360d | 2025-09-30 | 3 | 124 | 67 | 15 | 44 | 125 |
-| last720d | 2024-10-05 | 7 | 341 | 67 | 66 | 81 | 345 |
+| 30d | 2026-08-27 | 0 | 1 | 23 | 1 | 8 | 2 |
+| last60d | 2026-07-28 | 0 | 6 | 39 | 3 | 16 | 14 |
+| 90d | 2026-06-28 | 0 | 14 | 54 | 4 | 19 | 15 |
+| last180d | 2026-03-30 | 1 | 35 | 64 | 7 | 33 | 38 |
+| 360d | 2025-10-01 | 2 | 124 | 68 | 15 | 44 | 125 |
+| last720d | 2024-10-06 | 7 | 340 | 68 | 66 | 81 | 343 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:16:40Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:05:54Z._
