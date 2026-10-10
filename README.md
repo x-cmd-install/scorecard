@@ -26,12 +26,12 @@ Total: **85,420** lines of code across **761** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.5 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 8/17 approved changesets -- score normalized to 4
-- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
+- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
+- **Vulnerabilities** (0/10) — 11 existing vulnerabilities detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.0` (2026-04-23)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,744 · **Forks**: 740 · **Open issues**: 1,273 · **Contributors**: 211
+- **Stars**: 5,746 · **Forks**: 741 · **Open issues**: 1,273 · **Contributors**: 211
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 3021 · **Open PRs**: 60 · **Closed issues**: 882 · **Open issues**: 391 · **Commits**: 3131
+- **Releases**: 48 · **Merged PRs**: 3022 · **Open PRs**: 61 · **Closed issues**: 882 · **Open issues**: 391 · **Commits**: 3132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 22 | 24 | 4 | 8 | 25 |
-| last60d | 2026-08-10 | 0 | 25 | 37 | 8 | 16 | 29 |
-| 90d | 2026-07-11 | 0 | 36 | 50 | 8 | 23 | 40 |
-| last180d | 2026-04-12 | 1 | 51 | 56 | 10 | 37 | 59 |
-| 360d | 2025-10-14 | 2 | 137 | 60 | 19 | 47 | 141 |
-| last720d | 2024-10-19 | 7 | 357 | 60 | 71 | 82 | 361 |
+| 30d | 2026-09-10 | 0 | 22 | 24 | 3 | 8 | 26 |
+| last60d | 2026-08-11 | 0 | 26 | 37 | 8 | 16 | 30 |
+| 90d | 2026-07-12 | 0 | 37 | 51 | 8 | 23 | 41 |
+| last180d | 2026-04-13 | 1 | 49 | 56 | 10 | 37 | 60 |
+| 360d | 2025-10-15 | 2 | 138 | 61 | 19 | 47 | 142 |
+| last720d | 2024-10-20 | 7 | 358 | 61 | 71 | 82 | 362 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:23:55Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:59:17Z._
