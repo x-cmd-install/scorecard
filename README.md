@@ -26,12 +26,12 @@ Total: **79,315** lines of code across **691** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
-- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 
 ## Source
 
@@ -41,41 +41,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.5.0` (2026-04-23)
+- **Latest**: `v5.6.0` (2026-10-12)
 - **Last commit**: 2026-10-11
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,749 · **Forks**: 741 · **Open issues**: 1,274 · **Contributors**: 212
+- **Stars**: 5,749 · **Forks**: 741 · **Open issues**: 1,276 · **Contributors**: 212
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 3027 · **Open PRs**: 57 · **Closed issues**: 885 · **Open issues**: 389 · **Commits**: 3137
+- **Releases**: 49 · **Merged PRs**: 3030 · **Open PRs**: 55 · **Closed issues**: 885 · **Open issues**: 391 · **Commits**: 3141
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 25 | 22 | 4 | 7 | 31 |
-| last60d | 2026-08-12 | 0 | 30 | 33 | 10 | 15 | 33 |
-| 90d | 2026-07-13 | 0 | 42 | 48 | 11 | 21 | 45 |
-| last180d | 2026-04-14 | 1 | 53 | 52 | 13 | 35 | 59 |
-| 360d | 2025-10-16 | 2 | 143 | 57 | 22 | 45 | 146 |
-| last720d | 2024-10-21 | 7 | 361 | 57 | 74 | 80 | 367 |
+| 30d | 2026-09-12 | 1 | 28 | 21 | 4 | 9 | 35 |
+| last60d | 2026-08-13 | 1 | 33 | 32 | 10 | 17 | 37 |
+| 90d | 2026-07-14 | 1 | 45 | 47 | 11 | 23 | 49 |
+| last180d | 2026-04-15 | 2 | 56 | 50 | 13 | 36 | 63 |
+| 360d | 2025-10-17 | 3 | 146 | 55 | 22 | 46 | 150 |
+| last720d | 2024-10-22 | 8 | 364 | 55 | 74 | 82 | 371 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [multiple.intoto.jsonl](https://github.com/ossf/scorecard/releases/download/v5.5.0/multiple.intoto.jsonl) | 22.4 KiB | `other` |
-| [scorecard_5.5.0_darwin_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_darwin_amd64.tar.gz) | 24.9 MiB | `native/darwin/x64` |
-| [scorecard_5.5.0_darwin_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_darwin_arm64.tar.gz) | 23.3 MiB | `native/darwin/arm64` |
-| [scorecard_5.5.0_linux_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_linux_amd64.tar.gz) | 25.2 MiB | `native/linux/x64` |
-| [scorecard_5.5.0_linux_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_linux_arm64.tar.gz) | 23.1 MiB | `native/linux/arm64` |
-| [scorecard_5.5.0_windows_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_windows_amd64.tar.gz) | 24.9 MiB | `native/win/x64` |
-| [scorecard_5.5.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_5.5.0_windows_arm64.tar.gz) | 22.4 MiB | `native/win/arm64` |
-| [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.5.0/scorecard_checksums.txt) | 612 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/ossf/scorecard/releases/download/v5.6.0/multiple.intoto.jsonl) | 24.2 KiB | `other` |
+| [scorecard_5.6.0_darwin_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_amd64.tar.gz) | 26.3 MiB | `native/darwin/x64` |
+| [scorecard_5.6.0_darwin_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_arm64.tar.gz) | 24.6 MiB | `native/darwin/arm64` |
+| [scorecard_5.6.0_linux_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_amd64.tar.gz) | 25.8 MiB | `native/linux/x64` |
+| [scorecard_5.6.0_linux_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_arm64.tar.gz) | 23.5 MiB | `native/linux/arm64` |
+| [scorecard_5.6.0_windows_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_windows_amd64.tar.gz) | 26.3 MiB | `native/win/x64` |
+| [scorecard_5.6.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_windows_arm64.tar.gz) | 23.6 MiB | `native/win/arm64` |
+| [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_checksums.txt) | 612 B | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T07:00:13Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:23:33Z._
