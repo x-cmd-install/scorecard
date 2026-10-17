@@ -14,15 +14,15 @@ x install scorecard
 
 ## Code insight
 
-Total: **79,480** lines of code across **692** files in the top 5 languages.
+Total: **79,968** lines of code across **705** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 74,025 | 10,834 | 7,625 | 551 |
-| Yaml | 3,865 | 1,385 | 300 | 130 |
+| Go | 74,029 | 10,834 | 7,626 | 551 |
+| Yaml | 4,300 | 1,411 | 312 | 132 |
 | Svg | 810 | 2 | 0 | 5 |
-| Makefile | 170 | 42 | 49 | 1 |
-| Bash | 156 | 51 | 34 | 5 |
+| Sh | 192 | 231 | 63 | 16 |
+| Makefile | 172 | 43 | 50 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -30,7 +30,7 @@ Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
 - **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.6.0` (2026-10-12)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-17
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,759 · **Forks**: 745 · **Open issues**: 1,283 · **Contributors**: 213
+- **Stars**: 5,761 · **Forks**: 743 · **Open issues**: 1,284 · **Contributors**: 213
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 3033 · **Open PRs**: 60 · **Closed issues**: 887 · **Open issues**: 396 · **Commits**: 3144
+- **Releases**: 49 · **Merged PRs**: 3038 · **Open PRs**: 62 · **Closed issues**: 887 · **Open issues**: 397 · **Commits**: 3149
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 31 | 24 | 4 | 14 | 38 |
-| last60d | 2026-08-17 | 1 | 36 | 35 | 10 | 23 | 40 |
-| 90d | 2026-07-18 | 1 | 44 | 49 | 11 | 28 | 52 |
-| last180d | 2026-04-19 | 2 | 58 | 55 | 14 | 40 | 66 |
-| 360d | 2025-10-21 | 3 | 149 | 60 | 23 | 51 | 153 |
-| last720d | 2024-10-26 | 8 | 367 | 60 | 74 | 88 | 374 |
+| 30d | 2026-09-17 | 1 | 36 | 25 | 4 | 15 | 43 |
+| last60d | 2026-08-18 | 1 | 41 | 37 | 10 | 23 | 45 |
+| 90d | 2026-07-19 | 1 | 49 | 51 | 11 | 29 | 57 |
+| last180d | 2026-04-20 | 2 | 62 | 57 | 14 | 41 | 71 |
+| 360d | 2025-10-22 | 3 | 154 | 62 | 23 | 52 | 158 |
+| last720d | 2024-10-27 | 8 | 372 | 62 | 73 | 89 | 379 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:48:09Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:34:29Z._
