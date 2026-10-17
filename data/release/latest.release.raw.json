@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24779,
       "digest": "sha256:3809c2eb615de4fcbb9dc68915082b80a6959085f246ee96fb7627cd2391a173",
-      "download_count": 40,
+      "download_count": 48,
       "created_at": "2026-10-12T00:28:40Z",
       "updated_at": "2026-10-12T00:28:40Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/multiple.intoto.jsonl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 27552041,
       "digest": "sha256:6eb92048bc537810d383d7e28233b2f118e78b6fef9e47b2c427c4d01fc096ad",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-12T00:27:43Z",
       "updated_at": "2026-10-12T00:27:44Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25777148,
       "digest": "sha256:1537183c0fcc6d8d1572aabc7a949091a36a2ee6be5bcb65f487cbb0a7b40381",
-      "download_count": 45,
+      "download_count": 56,
       "created_at": "2026-10-12T00:27:43Z",
       "updated_at": "2026-10-12T00:27:45Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 27001448,
       "digest": "sha256:19bde07129450cb65a95c6e3b9f34e034341579e6f0e241546ec3ae6efb2dd9a",
-      "download_count": 780,
+      "download_count": 975,
       "created_at": "2026-10-12T00:27:43Z",
       "updated_at": "2026-10-12T00:27:45Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24618468,
       "digest": "sha256:3eacaceb3fdee6d0ba5df6ede45d1ada73321949029921bb63633802e8ec5951",
-      "download_count": 90,
+      "download_count": 96,
       "created_at": "2026-10-12T00:27:43Z",
       "updated_at": "2026-10-12T00:27:44Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27567637,
       "digest": "sha256:f69b8b91f38c35f326c1e02085d4c2f189d5e22be0083bc952181faf767fcf67",
-      "download_count": 38,
+      "download_count": 47,
       "created_at": "2026-10-12T00:27:45Z",
       "updated_at": "2026-10-12T00:27:46Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_windows_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 612,
       "digest": "sha256:7885cd81e0bf6ef30492de2c4252f3c293929da5716df8b9c2863dd5a1674422",
-      "download_count": 212,
+      "download_count": 240,
       "created_at": "2026-10-12T00:27:45Z",
       "updated_at": "2026-10-12T00:27:45Z",
       "browser_download_url": "https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_checksums.txt"
