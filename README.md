@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,802 · **Forks**: 760 · **Open issues**: 1,297 · **Contributors**: 214
+- **Stars**: 5,804 · **Forks**: 760 · **Open issues**: 1,297 · **Contributors**: 214
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 3055 · **Open PRs**: 86 · **Closed issues**: 890 · **Open issues**: 407 · **Commits**: 3166
+- **Releases**: 49 · **Merged PRs**: 3055 · **Open PRs**: 86 · **Closed issues**: 891 · **Open issues**: 406 · **Commits**: 3166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 33 | 43 | 3 | 23 | 35 |
-| last60d | 2026-09-02 | 1 | 54 | 58 | 11 | 28 | 60 |
-| 90d | 2026-08-03 | 1 | 61 | 69 | 13 | 38 | 64 |
-| last180d | 2026-05-05 | 1 | 75 | 82 | 16 | 51 | 78 |
-| 360d | 2025-11-06 | 3 | 159 | 86 | 25 | 62 | 156 |
-| last720d | 2024-11-11 | 8 | 375 | 86 | 74 | 100 | 383 |
+| 30d | 2026-10-03 | 1 | 33 | 42 | 3 | 23 | 35 |
+| last60d | 2026-09-03 | 1 | 54 | 58 | 11 | 27 | 60 |
+| 90d | 2026-08-04 | 1 | 59 | 68 | 14 | 36 | 64 |
+| last180d | 2026-05-06 | 1 | 75 | 82 | 17 | 50 | 78 |
+| 360d | 2025-11-07 | 3 | 159 | 86 | 26 | 61 | 156 |
+| last720d | 2024-11-12 | 8 | 375 | 86 | 74 | 99 | 383 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:30:57Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:36:33Z._
