@@ -14,11 +14,11 @@ x install scorecard
 
 ## Code insight
 
-Total: **86,506** lines of code across **719** files in the top 5 languages.
+Total: **86,207** lines of code across **721** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 80,635 | 11,742 | 8,126 | 569 |
+| Go | 80,336 | 11,674 | 8,045 | 571 |
 | Yaml | 4,253 | 1,309 | 294 | 128 |
 | Svg | 810 | 2 | 0 | 5 |
 | Sh | 192 | 231 | 63 | 16 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,815 · **Forks**: 764 · **Open issues**: 1,308 · **Contributors**: 214
+- **Stars**: 5,816 · **Forks**: 764 · **Open issues**: 1,309 · **Contributors**: 214
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 3069 · **Open PRs**: 97 · **Closed issues**: 1058 · **Open issues**: 250 · **Commits**: 3217
+- **Releases**: 49 · **Merged PRs**: 3071 · **Open PRs**: 102 · **Closed issues**: 1058 · **Open issues**: 251 · **Commits**: 3224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 40 | 50 | 3 | 32 | 75 |
-| last60d | 2026-09-08 | 1 | 65 | 69 | 9 | 38 | 100 |
-| 90d | 2026-08-09 | 1 | 72 | 79 | 14 | 46 | 104 |
-| last180d | 2026-05-11 | 1 | 86 | 94 | 18 | 60 | 128 |
-| 360d | 2025-11-12 | 3 | 167 | 97 | 27 | 71 | 207 |
-| last720d | 2024-11-17 | 8 | 388 | 97 | 76 | 108 | 432 |
+| 30d | 2026-10-09 | 1 | 41 | 55 | 3 | 33 | 82 |
+| last60d | 2026-09-09 | 1 | 67 | 73 | 9 | 39 | 107 |
+| 90d | 2026-08-10 | 1 | 72 | 84 | 14 | 46 | 111 |
+| last180d | 2026-05-12 | 1 | 88 | 99 | 18 | 60 | 135 |
+| 360d | 2025-11-13 | 3 | 169 | 102 | 27 | 72 | 214 |
+| last720d | 2024-11-18 | 8 | 388 | 102 | 76 | 109 | 439 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:15:50Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:21:20Z._
