@@ -30,7 +30,7 @@ Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/16 approved changesets -- score normalized to 1
 - **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.6.0` (2026-10-12)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,821 · **Forks**: 767 · **Open issues**: 1,312 · **Contributors**: 216
+- **Stars**: 5,828 · **Forks**: 770 · **Open issues**: 1,313 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 3074 · **Open PRs**: 99 · **Closed issues**: 1058 · **Open issues**: 254 · **Commits**: 3228
+- **Releases**: 49 · **Merged PRs**: 3077 · **Open PRs**: 97 · **Closed issues**: 1058 · **Open issues**: 255 · **Commits**: 3231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 38 | 54 | 2 | 32 | 73 |
-| last60d | 2026-09-12 | 1 | 69 | 73 | 7 | 42 | 111 |
-| 90d | 2026-08-13 | 1 | 75 | 81 | 14 | 49 | 113 |
-| last180d | 2026-05-15 | 1 | 91 | 97 | 18 | 62 | 137 |
-| 360d | 2025-11-16 | 2 | 172 | 99 | 27 | 75 | 217 |
-| last720d | 2024-11-21 | 8 | 391 | 99 | 76 | 112 | 439 |
+| 30d | 2026-10-13 | 0 | 40 | 51 | 1 | 31 | 76 |
+| last60d | 2026-09-13 | 1 | 72 | 71 | 7 | 43 | 114 |
+| 90d | 2026-08-14 | 1 | 78 | 79 | 14 | 50 | 116 |
+| last180d | 2026-05-16 | 1 | 94 | 95 | 18 | 63 | 140 |
+| 360d | 2025-11-17 | 2 | 175 | 97 | 27 | 76 | 220 |
+| last720d | 2024-11-22 | 8 | 394 | 97 | 76 | 113 | 442 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:44:12Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:12:06Z._
