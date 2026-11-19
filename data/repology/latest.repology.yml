@@ -20,8 +20,8 @@
     - scorecard
     - scorecard-debuginfo
   visiblename: scorecard
-  version: 5.5.0
-  origversion: 5.5.0-alt1
+  version: 5.6.0
+  origversion: 5.6.0-alt1
   status: outdated
   summary: OpenSSF Scorecard - Security health metrics for Open Source
   maintainers:
@@ -34,21 +34,21 @@
   srcname: scorecard
   binname: scorecard
   visiblename: scorecard
-  version: 5.6.0
-  origversion: 5.6.0-1
+  version: 5.7.0
+  origversion: 5.7.0-1
   status: newest
   summary: Security health metrics for Open Source
   maintainers:
-    - fallback-mnt-aur@repology
+    - agony4001@aur
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: aur
   srcname: scorecard-bin
   binname: scorecard-bin
   visiblename: scorecard-bin
   version: 5.6.0
   origversion: 5.6.0-1
-  status: newest
+  status: outdated
   summary: Security health metrics for Open Source
   maintainers:
     - vitaliikuzhdin@aur
@@ -59,7 +59,7 @@
   visiblename: scorecard
   version: 5.6.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Security health metrics for Open Source
 - repo: homebrew
   srcname: scorecard
@@ -72,7 +72,7 @@
   srcname: security/scorecard
   binname: scorecard
   visiblename: scorecard
-  version: 5.6.0
+  version: 5.7.0
   origversion: null
   status: newest
   summary: OpenSSF Scorecard - security health metrics for open source
