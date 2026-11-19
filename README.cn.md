@@ -14,23 +14,23 @@ x install scorecard
 
 ## 代码洞察
 
-合计: **88,450** 行代码（覆盖前 5 种语言、共 **735** 个文件）。
+合计: **89,344** 行代码（覆盖前 5 种语言、共 **742** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 82,564 | 12,065 | 8,246 | 585 |
+| Go | 83,404 | 12,190 | 8,326 | 591 |
 | Yaml | 4,254 | 1,309 | 294 | 128 |
 | Svg | 810 | 2 | 0 | 5 |
-| Sh | 192 | 231 | 63 | 16 |
+| Sh | 230 | 267 | 73 | 17 |
 | Makefile | 175 | 44 | 47 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.6 / 10**
+总评分: **8.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 3/13 approved changesets -- score normalized to 2
+- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
 
 ## 源代码
 
@@ -40,49 +40,49 @@ x install scorecard
 
 ## 发布
 
-- **最新版本**: `v5.6.0` (2026-10-12)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v5.7.0` (2026-11-19)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 5,844 · **Fork**: 777 · **开放 issue**: 1,313 · **贡献者**: 216
+- **Star**: 5,846 · **Fork**: 782 · **开放 issue**: 1,317 · **贡献者**: 219
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 3086 · **开放 PR**: 95 · **已关闭 issue**: 1058 · **开放 issue**: 255 · **提交数**: 3240
+- **发布数**: 50 · **已合并 PR**: 3095 · **开放 PR**: 96 · **已关闭 issue**: 1065 · **开放 issue**: 252 · **提交数**: 3251
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 40 | 44 | 1 | 25 | 76 |
-| last60d | 2026-09-18 | 1 | 80 | 66 | 6 | 42 | 123 |
-| 90d | 2026-08-19 | 1 | 86 | 77 | 13 | 49 | 125 |
-| last180d | 2026-05-21 | 1 | 102 | 93 | 17 | 63 | 148 |
-| 360d | 2025-11-22 | 2 | 181 | 95 | 27 | 76 | 224 |
-| last720d | 2024-11-27 | 8 | 399 | 95 | 76 | 113 | 449 |
+| 30d | 2026-10-20 | 1 | 49 | 44 | 7 | 21 | 87 |
+| last60d | 2026-09-20 | 2 | 89 | 66 | 13 | 39 | 134 |
+| 90d | 2026-08-21 | 2 | 94 | 78 | 20 | 46 | 136 |
+| last180d | 2026-05-23 | 2 | 111 | 94 | 24 | 59 | 159 |
+| 360d | 2025-11-24 | 3 | 184 | 96 | 34 | 72 | 235 |
+| last720d | 2024-11-29 | 9 | 408 | 96 | 83 | 110 | 460 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [multiple.intoto.jsonl](https://github.com/ossf/scorecard/releases/download/v5.6.0/multiple.intoto.jsonl) | 24.2 KiB | `other` |
-| [scorecard_5.6.0_darwin_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_amd64.tar.gz) | 26.3 MiB | `native/darwin/x64` |
-| [scorecard_5.6.0_darwin_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_darwin_arm64.tar.gz) | 24.6 MiB | `native/darwin/arm64` |
-| [scorecard_5.6.0_linux_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_amd64.tar.gz) | 25.8 MiB | `native/linux/x64` |
-| [scorecard_5.6.0_linux_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_linux_arm64.tar.gz) | 23.5 MiB | `native/linux/arm64` |
-| [scorecard_5.6.0_windows_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_windows_amd64.tar.gz) | 26.3 MiB | `native/win/x64` |
-| [scorecard_5.6.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_5.6.0_windows_arm64.tar.gz) | 23.6 MiB | `native/win/arm64` |
-| [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.6.0/scorecard_checksums.txt) | 612 B | `other` |
+| [multiple.intoto.jsonl](https://github.com/ossf/scorecard/releases/download/v5.7.0/multiple.intoto.jsonl) | 23.6 KiB | `other` |
+| [scorecard_5.7.0_darwin_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_darwin_amd64.tar.gz) | 27.6 MiB | `native/darwin/x64` |
+| [scorecard_5.7.0_darwin_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_darwin_arm64.tar.gz) | 25.8 MiB | `native/darwin/arm64` |
+| [scorecard_5.7.0_linux_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_linux_amd64.tar.gz) | 27.1 MiB | `native/linux/x64` |
+| [scorecard_5.7.0_linux_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_linux_arm64.tar.gz) | 24.6 MiB | `native/linux/arm64` |
+| [scorecard_5.7.0_windows_amd64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_windows_amd64.tar.gz) | 27.7 MiB | `native/win/x64` |
+| [scorecard_5.7.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_windows_arm64.tar.gz) | 24.8 MiB | `native/win/arm64` |
+| [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_checksums.txt) | 612 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/scorecard) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/scorecard) 上共有 **14** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `5.6.0` | ✅ latest |
+| Homebrew | `5.6.0` | ⚠️ outdated |
 | Nix unstable | `5.5.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -94,4 +94,4 @@ scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:44:02Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:16:23Z._
