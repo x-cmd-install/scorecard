@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: scorecard
+  visiblename: scorecard
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Security health metrics for Open Source
 - repo: alt_p11
   srcname: scorecard
   binnames:
@@ -57,16 +64,9 @@
 - repo: homebrew
   srcname: scorecard
   visiblename: scorecard
-  version: 5.6.0
+  version: 5.7.0
   origversion: null
-  status: outdated
-  summary: Security health metrics for Open Source
-- repo: homebrew
-  srcname: scorecard
-  visiblename: scorecard
-  version: HEAD
-  origversion: null
-  status: rolling
+  status: newest
   summary: Security health metrics for Open Source
 - repo: macports
   srcname: security/scorecard
