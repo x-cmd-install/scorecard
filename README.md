@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,846 · **Forks**: 782 · **Open issues**: 1,317 · **Contributors**: 219
+- **Stars**: 5,846 · **Forks**: 782 · **Open issues**: 1,318 · **Contributors**: 219
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 3095 · **Open PRs**: 96 · **Closed issues**: 1065 · **Open issues**: 252 · **Commits**: 3251
+- **Releases**: 50 · **Merged PRs**: 3095 · **Open PRs**: 99 · **Closed issues**: 1069 · **Open issues**: 249 · **Commits**: 3251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 49 | 44 | 7 | 21 | 87 |
-| last60d | 2026-09-20 | 2 | 89 | 66 | 13 | 39 | 134 |
-| 90d | 2026-08-21 | 2 | 94 | 78 | 20 | 46 | 136 |
-| last180d | 2026-05-23 | 2 | 111 | 94 | 24 | 59 | 159 |
-| 360d | 2025-11-24 | 3 | 184 | 96 | 34 | 72 | 235 |
-| last720d | 2024-11-29 | 9 | 408 | 96 | 83 | 110 | 460 |
+| 30d | 2026-10-21 | 1 | 49 | 48 | 8 | 21 | 87 |
+| last60d | 2026-09-21 | 2 | 88 | 69 | 14 | 39 | 134 |
+| 90d | 2026-08-22 | 2 | 94 | 81 | 21 | 46 | 136 |
+| last180d | 2026-05-24 | 2 | 111 | 97 | 25 | 59 | 159 |
+| 360d | 2025-11-25 | 3 | 183 | 99 | 35 | 72 | 235 |
+| last720d | 2024-11-30 | 9 | 408 | 99 | 85 | 109 | 460 |
 
 ## Release assets
 
@@ -78,11 +78,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/scorecard). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/scorecard). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `5.6.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `5.5.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -94,4 +94,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:16:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:07:57Z._
