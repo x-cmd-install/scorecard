@@ -26,7 +26,7 @@ Total: **89,344** lines of code across **742** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.8 / 10**
+Overall score: **8.7 / 10**
 
 Lowest-scoring checks:
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,865 · **Forks**: 785 · **Open issues**: 1,320 · **Contributors**: 219
+- **Stars**: 5,866 · **Forks**: 787 · **Open issues**: 1,320 · **Contributors**: 219
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 48 | 46 | 8 | 22 | 75 |
-| last60d | 2026-09-25 | 2 | 87 | 68 | 14 | 41 | 128 |
-| 90d | 2026-08-26 | 2 | 95 | 80 | 20 | 46 | 137 |
-| last180d | 2026-05-28 | 2 | 112 | 97 | 25 | 60 | 160 |
-| 360d | 2025-11-29 | 3 | 183 | 99 | 35 | 74 | 236 |
-| last720d | 2024-12-04 | 9 | 403 | 99 | 85 | 110 | 452 |
+| 30d | 2026-10-26 | 1 | 45 | 46 | 7 | 21 | 75 |
+| last60d | 2026-09-26 | 2 | 87 | 67 | 14 | 40 | 128 |
+| 90d | 2026-08-27 | 2 | 95 | 79 | 20 | 45 | 137 |
+| last180d | 2026-05-29 | 2 | 112 | 97 | 25 | 59 | 160 |
+| 360d | 2025-11-30 | 3 | 183 | 99 | 35 | 74 | 236 |
+| last720d | 2024-12-05 | 9 | 402 | 99 | 85 | 110 | 451 |
 
 ## Release assets
 
@@ -76,15 +76,6 @@ Lowest-scoring checks:
 | [scorecard_5.7.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_windows_arm64.tar.gz) | 24.8 MiB | `native/win/arm64` |
 | [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_checksums.txt) | 612 B | `other` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/scorecard). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `5.5.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scorecard` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +85,4 @@ Install metadata for scorecard lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:49:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:08Z._

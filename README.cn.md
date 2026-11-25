@@ -26,7 +26,7 @@ x install scorecard
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.8 / 10**
+总评分: **8.7 / 10**
 
 评分最低的几项:
 
@@ -46,7 +46,7 @@ x install scorecard
 
 ## 流行度
 
-- **Star**: 5,865 · **Fork**: 785 · **开放 issue**: 1,320 · **贡献者**: 219
+- **Star**: 5,866 · **Fork**: 787 · **开放 issue**: 1,320 · **贡献者**: 219
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install scorecard
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 48 | 46 | 8 | 22 | 75 |
-| last60d | 2026-09-25 | 2 | 87 | 68 | 14 | 41 | 128 |
-| 90d | 2026-08-26 | 2 | 95 | 80 | 20 | 46 | 137 |
-| last180d | 2026-05-28 | 2 | 112 | 97 | 25 | 60 | 160 |
-| 360d | 2025-11-29 | 3 | 183 | 99 | 35 | 74 | 236 |
-| last720d | 2024-12-04 | 9 | 403 | 99 | 85 | 110 | 452 |
+| 30d | 2026-10-26 | 1 | 45 | 46 | 7 | 21 | 75 |
+| last60d | 2026-09-26 | 2 | 87 | 67 | 14 | 40 | 128 |
+| 90d | 2026-08-27 | 2 | 95 | 79 | 20 | 45 | 137 |
+| last180d | 2026-05-29 | 2 | 112 | 97 | 25 | 59 | 160 |
+| 360d | 2025-11-30 | 3 | 183 | 99 | 35 | 74 | 236 |
+| last720d | 2024-12-05 | 9 | 402 | 99 | 85 | 110 | 451 |
 
 ## Release 资产
 
@@ -76,15 +76,6 @@ x install scorecard
 | [scorecard_5.7.0_windows_arm64.tar.gz](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_5.7.0_windows_arm64.tar.gz) | 24.8 MiB | `native/win/arm64` |
 | [scorecard_checksums.txt](https://github.com/ossf/scorecard/releases/download/v5.7.0/scorecard_checksums.txt) | 612 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/scorecard) 上共有 **14** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `5.5.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `scorecard` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +85,4 @@ scorecard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:49:07Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:26:09Z._
